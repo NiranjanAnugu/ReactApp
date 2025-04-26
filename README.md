@@ -1,3 +1,6 @@
+# JS Required
+https://kentcdodds.com/blog/javascript-to-know-for-react
+
 # React Basics
 
  1. What is React? why use it?
